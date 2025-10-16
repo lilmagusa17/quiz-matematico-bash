@@ -99,7 +99,11 @@ quiz/
 ## Validaciones incluidas
 
 ✅ Validación de opción de menú (solo acepta 1, 2, 3, 4 o 9).
+
 ✅ Validación de entrada numérica (solo números enteros).
+
 ✅ Tres intentos por pregunta.
+
 ✅ Muestra de respuesta correcta al fallar.
+
 ✅ Limpieza de pantalla y mensajes claros en cada ronda.
