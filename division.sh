@@ -30,5 +30,5 @@ while (( intentos > 0 )); do
   fi
 done
 
-echo "🧠 La respuesta correcta era: $respuesta_correcta"
+echo "La respuesta correcta era: $respuesta_correcta"
 pause
